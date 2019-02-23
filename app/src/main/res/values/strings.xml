@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Credit Card - Simple Validation</string>
+    <string name="default_hint_text">XXXX XXXX XXXX XXXX</string>
+    <string name="card_info_not_found">Card info not found.</string>
 </resources>
