@@ -1,4 +1,4 @@
-package validation.creditcard.com.creditcard_simplevalidation;
+package com.creditcard.simplevalidation;
 
 import org.junit.Test;
 

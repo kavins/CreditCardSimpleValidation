@@ -1,4 +1,4 @@
-package validation.creditcard.com.creditcard_simplevalidation;
+package com.creditcard.simplevalidation;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
